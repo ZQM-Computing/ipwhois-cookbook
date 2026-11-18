@@ -35,6 +35,8 @@ Developers who resolve IP ownership and network data programmatically.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-lookup` | WHOIS and RDAP lookups for an address |
